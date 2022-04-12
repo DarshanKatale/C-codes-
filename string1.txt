@@ -1,0 +1,8 @@
+#include<stdio.h>
+void main()
+{
+    char c = 'C' ,  name[]= "darshan" ;
+    printf("%c",c);
+    printf("\n%s",name);
+
+}
